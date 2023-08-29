@@ -7,6 +7,8 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 # Create the Earthquake Visualization
+![image](https://github.com/Wald1995/leaflet-challenge/assets/127918227/bbe61ede-bf48-474c-bb1d-be48170b094e)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 1. Get your dataset. To do so, follow these steps:
   - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
